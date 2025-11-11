@@ -1,16 +1,23 @@
-# fruitify
+# Fruitify 🍎
 
-A simple fruit shopping app with a Splash Screen, Home Screen, and Cart Screen.
+A simple Flutter fruit shopping app with a Splash Screen, Home Screen, and Cart Screen.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Splash & Home Screens:  
+![Splash/Home Screen](Screenshot_20251112_000144.png)
 
-A few resources to get you started if this is your first Flutter project:
+Cart Screen:  
+![Cart Screen](Screenshot_20251112_000144_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- Splash Screen, Home Screen, Cart Screen
+- Display fruits and prices
+- Simple and clean UI
+- **Responsive UI** using `auto_size_text`
+- **SVG support** using `flutter_svg`
+- **Carousels/Sliders** using `carousel_slider`
+- **Spacing & layout management** using `gap`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
